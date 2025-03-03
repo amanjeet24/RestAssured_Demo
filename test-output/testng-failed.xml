@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day1.HTTPRequests">
+      <class name="day2.WaysToCreatePostRequestBody">
         <methods>
-          <include name="createUser"/>
-          <include name="updateUser"/>
+          <include name="testPostusingHashMap"/>
         </methods>
-      </class> <!-- day1.HTTPRequests -->
+      </class> <!-- day2.WaysToCreatePostRequestBody -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
