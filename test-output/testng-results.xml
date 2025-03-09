@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-09T13:44:51 EDT" name="Default suite" finished-at="2025-03-09T13:44:52 EDT" duration-ms="1355">
+  <suite started-at="2025-03-09T14:43:43 EDT" name="Default suite" finished-at="2025-03-09T14:43:47 EDT" duration-ms="3834">
     <groups>
     </groups>
-    <test started-at="2025-03-09T13:44:51 EDT" name="Default test" finished-at="2025-03-09T13:44:52 EDT" duration-ms="1355">
-      <class name="day5.FileUploadDownload">
-        <test-method signature="fileDownload()[pri:0, instance:day5.FileUploadDownload@799f10e1]" started-at="2025-03-09T13:44:51 EDT" name="fileDownload" finished-at="2025-03-09T13:44:52 EDT" duration-ms="1321" status="PASS">
+    <test started-at="2025-03-09T14:43:43 EDT" name="Default test" finished-at="2025-03-09T14:43:47 EDT" duration-ms="3834">
+      <class name="day6.JSONSchemaValidation">
+        <test-method signature="jsonSchemaValidation()[pri:0, instance:day6.JSONSchemaValidation@2a65fe7c]" started-at="2025-03-09T14:43:43 EDT" name="jsonSchemaValidation" finished-at="2025-03-09T14:43:47 EDT" duration-ms="3761" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- fileDownload -->
-      </class> <!-- day5.FileUploadDownload -->
+        </test-method> <!-- jsonSchemaValidation -->
+      </class> <!-- day6.JSONSchemaValidation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
